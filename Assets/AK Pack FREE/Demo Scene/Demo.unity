@@ -194,6 +194,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 23000013820945794, guid: e3b873ff8cca896478e01643d95b4bba, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 66ab9b51d54ac0db88bf2c8a9677cae3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -297,7 +301,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 53cfad9ba92ec4649bbc52aa2ddaaf48, type: 2}
+  - {fileID: 2100000, guid: 8098991a3a1b8d64db6918907b2d4ede, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -744,6 +748,22 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 23000012305145604, guid: a2185de06c434b84e8a36835c77d3ca4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f129c238f751ff48a21126f34210c8d, type: 2}
+    - target: {fileID: 23000012990150054, guid: a2185de06c434b84e8a36835c77d3ca4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f129c238f751ff48a21126f34210c8d, type: 2}
+    - target: {fileID: 23000013465199246, guid: a2185de06c434b84e8a36835c77d3ca4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f129c238f751ff48a21126f34210c8d, type: 2}
+    - target: {fileID: 23000014140280486, guid: a2185de06c434b84e8a36835c77d3ca4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f129c238f751ff48a21126f34210c8d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
